@@ -1,0 +1,6 @@
+** Start ** 
+profile: http://research.unsw.edu.au/sites/all/files/images/profile/9800313.jpg
+Succeed to copy original image http://research.unsw.edu.au/sites/all/files/images/profile/9800313.jpg
+Succeed to large image.
+Succeed to medium image.
+Succeed to thumbnail image.
